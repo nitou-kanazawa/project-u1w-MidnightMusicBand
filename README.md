@@ -10,8 +10,7 @@ Unity 1 Week「ひく」の参加作品．
 
 ## 使用ライブラリ
 
-- NuGetForUnity
-- R3
-- UniTask
-- VContainer
-- Unity Excel Importer
+
+
+## 参考資料
+- YouTube : [Unity6でフラッピーバードっぽい横スクロールゲームをサクッと作るチュートリアル](https://www.youtube.com/watch?v=EL5CTdshXl8)
