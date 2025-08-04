@@ -1,44 +1,17 @@
-# template-unity-Project
-Unity6.0のテンプレート．
+# Low Flying
+Unity 1 Week「ひく」の参加作品．
+
+
+## ゲーム概要
 
 
 
 
-## UPM パッケージ
+
+## 使用ライブラリ
 
 - NuGetForUnity
 - R3
 - UniTask
 - VContainer
 - Unity Excel Importer
-
-
-
-#### NuGetForUnity
-
-```
-https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity
-```
-
-
-#### R3
-
-```
-https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity
-```
-
-#### UniTask
-
-```
-https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
-```
-
-#### VContainer
-
-```
-```
-
-#### Unity Excel Importer
-
-```
-```
